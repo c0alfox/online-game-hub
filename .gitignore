@@ -1,0 +1,4 @@
+wss/target
+wss/Cargo.lock
+
+docker/.env
